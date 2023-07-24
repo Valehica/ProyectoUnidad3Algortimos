@@ -1,0 +1,4 @@
+Para poder jugar este programa deberá crear el ejecutable mediante el terminal de visual studio code ocupando
+el comando "g++ .\Proyecto3Algoritmos.cpp"y tendiendo instalado MinGW-w64 en sus sitema. Despues de escribir
+este comando automaticamente se creará un ejecutable de nombre "a.exe" que podrá abrir mediante la terminar
+ocupando el comando ".\a.exe"
