@@ -9,3 +9,6 @@ Para la creación de este programa se ocupó la aplicación Visual Studio Code y
 de elementos, además se ocuparon distintas librerías para desarrollar el programa como lo son la librería <random> para la creación de números randoms, <chrono> para poder medir el tiempo entre algoritmo de ordenamiento
 o <algorithm> para desordenar un vector (que fue utilizado a la hora de crear el set de dato aleatorio sin repetición).
 
+vinculo del video donde se explica a mas detalle el programa:
+https://drive.google.com/file/d/1A8wcGnApsoarHu_JgOZToT2YEoZDJvQ7/view?usp=sharing
+
